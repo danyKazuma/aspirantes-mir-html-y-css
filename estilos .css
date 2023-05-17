@@ -1,0 +1,45 @@
+h1{    
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: #66ffff;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);     
+}
+
+#receta{
+    color: #0066cc;    
+}
+
+#ingredientes{
+    color: #990000;
+}
+
+#cuerpo{
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cc3300;
+}
+
+ul{
+    color: #666633;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#pie{
+    color: #660066;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
