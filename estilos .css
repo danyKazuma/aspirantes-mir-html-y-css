@@ -43,3 +43,24 @@ ul{
     color: #660066;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+body{
+    background-color: #ffffcc;
+}
+
+#ordenado{
+    color: #cc3300;
+    font-family: Impact, sans-serif;
+    font-style: oblique;
+}
+
+#lista1{
+    color: #660033;
+    font-style: italic;
+}
+
+#lista2{
+    font-style: normal;
+    font-weight: bold;
+    color: #cc6600;
+}
