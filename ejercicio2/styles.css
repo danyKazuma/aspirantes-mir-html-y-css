@@ -1,0 +1,86 @@
+#login{
+    border-color: red;
+    width: 300px;
+    padding : 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background-color: #bd09b7;
+    box-shadow: #ff0066;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    box-shadow: 2px 2px 30px 1px black;
+}
+
+#email{
+    padding: 7px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -80%;
+}
+
+#password{
+    padding: 7px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -80%;
+}
+
+p{
+    color: white;
+    object-position: center;
+    font-size: 100%;    
+    text-align: left;
+}
+
+#genero{
+    padding: 7px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -80%;
+}
+
+#terminos{
+    padding: 7px;
+    width: 100%;
+    position: initial;
+    margin-left: -47%;
+    margin-top: 20px ;
+}
+
+code{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -46%
+}
+
+#ingresar{
+    margin-left: 78%;
+    width:70px; 
+    height:40px;
+    border-radius: 6;
+    padding: 5px;
+}
+
+#login1{
+    font-size: 120%;    
+    
+}
+
+.formulario-container {
+    width: 100%; 
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+
+  @media (min-width: 500px) {
+    .formulario-container {
+      width: 300px;
+    }
+  }
